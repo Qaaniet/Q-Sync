@@ -1,6 +1,3 @@
-# 🏠 Daily Notes Hub
-
-
 ## 📅 All Daily Notes
 
 ```dataview
