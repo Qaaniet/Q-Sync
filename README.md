@@ -1,4 +1,3 @@
 # Q-Sync
 
-So if I change this does it change on my GitHub 
-Lets see
+This is a damn good place to add some good notes
