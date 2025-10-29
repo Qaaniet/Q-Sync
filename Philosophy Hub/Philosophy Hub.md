@@ -70,15 +70,3 @@ select.onchange = () => {
 render(selected);
 ```
 
-
----
-
-
-```dataview
-
-table file.name as "Note", date(file.name) as "Date", length(file.outlinks) as "Links"
-
-from #hub/philosophy 
-
-sort date(file.name) desc
-```
