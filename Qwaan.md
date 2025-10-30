@@ -7,20 +7,13 @@ Welcome to the hub of everything I learn, apply, and track.
 > [!info] **🔥 Quick Access**
 
 - [[Monthly Review]]
-
 - [[General Health Hub]]
-
 - [[Philosophy Hub]]
-
 - [[Tech Hub]]
-
 - [[Knowledge Library]]
-
 - [[Projects Dashboard]]
-
 - [[Wishlist]]
 ---
-
 ## 📊 Monthly Overview
 
 ```dataviewjs
