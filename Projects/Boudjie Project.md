@@ -54,13 +54,15 @@ dv.container.appendChild(bar);
 
 ---
 ## ✅ Tasks
-- [ ] Logo
+- [x] Logo
 - [ ] Character
 - [ ] Artworks
 - [ ] Floor plan
 - [ ] 3D
 - [ ] Sections
 - [ ] Decor
+      Keep simple just a lot of artworks on the walls
+      c
 - [ ] Programming branding that can find similar links
 
 ---
