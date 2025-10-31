@@ -4,14 +4,12 @@
 ---
 
 ## 🔥 Active Projects
-| Project                | Status         | Priority | Deadline | Progress                                                                                  |
-| ---------------------- | -------------- | -------- | -------- | ----------------------------------------------------------------------------------------- |
-| Music Player App       | 🟢 In Progress | High     | Nov 15   | <div class="progress-bar"><div class="progress-bar-fill" style="width: 70%;"></div></div> |
-| Obsidian Customization | 🟢 In Progress | Medium   | Oct 30   | <div class="progress-bar"><div class="progress-bar-fill" style="width: 40%;"></div></div> |
-| Steam Integration      | 🟡 Planned     | Low      | Dec 10   | <div class="progress-bar"><div class="progress-bar-fill" style="width: 10%;"></div></div> |
-
-
-
+| Project                | Status         | Priority | Deadline |
+| ---------------------- | -------------- | -------- | -------- |
+| Music Player App       | 🟢 In Progress | Medium   | Nov 15   |
+| Obsidian Customization | 🔵 Completed   | High     | Oct 25   |
+| Steam Integration      | 🟡 Planned     | Low      | Dec 10   |
+|                        | 🔴 Idea        |          |          |
 
 ```dataviewjs
 const statuses = ["All", "Active", "Completed", "On Hold"];

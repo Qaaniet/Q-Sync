@@ -1,6 +1,6 @@
 ---
 status: Active
-progress: 5
+progress: 17
 ---
 # 🏛 Boudjie
 [[Projects Dashboard]] #project
@@ -49,7 +49,7 @@ dv.container.appendChild(bar);
 - [x] Define scope
 - [ ] Gather resources
 - [ ] Execute tasks
-- [ ] Finish floor plans and 3D
+- [ ] Finish floor plan and 3D
 - [ ] Send over presentation format
 
 ---
@@ -57,12 +57,14 @@ dv.container.appendChild(bar);
 - [x] Logo
 - [ ] Character
 - [ ] Artworks
+      !! Find that reference style
 - [ ] Floor plan
+      Just follow the program and add photoshop detailing
 - [ ] 3D
-- [ ] Sections
 - [ ] Decor
       Keep simple just a lot of artworks on the walls
-      c
+      Make the sign for outside the store
+      Simple timber works and CNC cuttings of timber
 - [ ] Programming branding that can find similar links
 
 ---
