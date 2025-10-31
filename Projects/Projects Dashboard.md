@@ -4,12 +4,13 @@
 ---
 
 ## 🔥 Active Projects
-| Project                | Status         | Priority | Deadline |
-| ---------------------- | -------------- | -------- | -------- |
-| Music Player App       | 🟢 In Progress | Medium   | Nov 15   |
-| Obsidian Customization | 🔵 Completed   | High     | Oct 25   |
-| Steam Integration      | 🟡 Planned     | Low      | Dec 10   |
-|                        | 🔴 Idea        |          |          |
+| Project                | Status         | Priority | Deadline    |
+| ---------------------- | -------------- | -------- | ----------- |
+| Music Player App       | 🟡 In Progress | Medium   | Nov 15      |
+| Obsidian Customization | 🟢 Completed   | High     | 2025 Oct 25 |
+| Steam Integration      | 🔵 Planned     | Low      | Dec 10      |
+| BAT Gina               | 🟢 Completed   | High     | 2025 Oct 29 |
+|                        | 🔴 Idea        |          |             |
 
 ```dataviewjs
 const statuses = ["All", "Active", "Completed", "On Hold"];
