@@ -34,4 +34,3 @@ dv.paragraph(`Progress: ${percent}%`);
 
 dv.paragraph("[" + "█".repeat(percent / 10) + "░".repeat(10 - percent / 10) + "]");
 ```
-
