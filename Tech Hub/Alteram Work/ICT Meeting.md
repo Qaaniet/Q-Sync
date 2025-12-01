@@ -47,6 +47,3 @@ Files need to be captured multiple times but the staff does not reflect this ext
 Tried the E-cover, forms need to go to RMC to scan and all of that work shows up under their name.
 They wait 30-40 days to get the forms to reflect 
 Head Office provides the data, Local Office provides all of the information
-
-
-FSE Qaaniet Taliep assisted user Robert Sonn with issue regarding signing into laptop. User was given an "Unspecified error" when trying to sign into laptop. Other accounts tried gave the same issue. Network driver was generic and was swapped to use the designated Lenovo driver to connect to the internet. User was able to sign in afterwards. Call to be resolved.
