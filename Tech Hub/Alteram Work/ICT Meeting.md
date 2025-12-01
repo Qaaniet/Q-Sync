@@ -1,7 +1,8 @@
+## Meeting ICT 01.12.2025
+
 CEO of ICT working in IT will address the challengers that SASSA faces
   - Knowledgeable about IT, has ground experience
   - Not sure on knowledge on finance
-
 HR, HCM, support required from the CEO
 
 ### Directive to Scan
@@ -19,5 +20,8 @@ BBE had an exception list whereby under certain circumstances they could switch 
   - If home affairs does not verify then it creates a problem for SASSA, Home Affairs in the process of migrating data. They are not up to date with their system. Creates challengers for SASSA. SASSA is allowed to override this if Home Affairs does not have the data to verify
   - Home Affairs does not have the biometrics of refugees, therefore SASSA has to first capture on SOCPEN and then the uploading to BBE can happen
   - When it comes to foster care quad 7s without birth certificates onboarding has a challenge
-
 Issue regarding applications for refugees. Process if broken
+
+A person that is migrated needs to 
+
+Network in Bellville is slow, much of time is spent waiting
