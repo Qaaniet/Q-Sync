@@ -26,6 +26,8 @@ A person that is migrated needs to
 
 Network in Bellville is slow, much of time is spent waiting
 
+Network infostructure, 15 out of 28 are done. 
+
 ### Missing Files
 60 day period to fix the batch that was scanned and uploaded
 A file has 5 stages
@@ -36,3 +38,10 @@ Dispatched
 Missing files speaks to the last stage, so long as the E-cover sheet exists they can account for that file
 When the file is received from SOCPEN, when a user states a file is missing, Liquid office, BRM is checked if there is nothing then it is regarded as a ghost file and the customer is deleted
 Complete the E-Cover sheet, it produces the barcode. The means of verification cannot only be on the online system. It shows a fraction of the work that is actually done.
+SASSA report stating that file is missing is correct 
+Taking application on the ground, head office sees it far later, if a payment is ready for the next day they nee
+
+### E-Cover Sheet
+Tried the E-cover, forms need to go to RMC to scan and all of that work shows up under their name.
+They wait 30-40 days to get the forms to reflect 
+Head Office provides the data, Local Office provides all of the information
