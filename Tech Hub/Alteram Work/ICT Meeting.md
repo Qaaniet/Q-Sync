@@ -39,7 +39,9 @@ Missing files speaks to the last stage, so long as the E-cover sheet exists they
 When the file is received from SOCPEN, when a user states a file is missing, Liquid office, BRM is checked if there is nothing then it is regarded as a ghost file and the customer is deleted
 Complete the E-Cover sheet, it produces the barcode. The means of verification cannot only be on the online system. It shows a fraction of the work that is actually done.
 SASSA report stating that file is missing is correct 
-Taking application on the ground, head office sees it far later, if a payment is ready for the next day they nee
+Taking application on the ground, head office sees it far later, if a payment is ready for the next day they need to wait for a long time until head office can verify
+Files are processed but does not reflect
+Files need to be captured multiple times but the staff does not reflect this extra work
 
 ### E-Cover Sheet
 Tried the E-cover, forms need to go to RMC to scan and all of that work shows up under their name.
