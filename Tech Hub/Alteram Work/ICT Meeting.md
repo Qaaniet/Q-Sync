@@ -47,3 +47,6 @@ Files need to be captured multiple times but the staff does not reflect this ext
 Tried the E-cover, forms need to go to RMC to scan and all of that work shows up under their name.
 They wait 30-40 days to get the forms to reflect 
 Head Office provides the data, Local Office provides all of the information
+
+
+FSE Qaaniet Taliep assisted user Bukiwe Ndlondlo with accessing
