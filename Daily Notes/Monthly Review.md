@@ -2,7 +2,7 @@
 # 📆 Monthly Review
 [[Daily Notes Hub]]  
 
-Month:: 11
+Month:: 12
 Year:: 2025
 ```dataviewjs
 // Read month and year from inline fields
