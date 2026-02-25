@@ -11,6 +11,7 @@
 | Steam Integration      | 🔵 Planned     | Low      | Dec 10      |
 | BAT Gina               | 🟢 Completed   | High     | 2025 Oct 29 |
 |                        | 🔴 Idea        |          |             |
+| Discord Tracker Bot    |                |          |             |
 
 ```dataviewjs
 const statuses = ["All", "Active", "Completed", "On Hold"];
