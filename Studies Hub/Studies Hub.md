@@ -31,7 +31,7 @@ function render(category) {
     if (category === "All") {
         categories.forEach(cat => {
             dv.header(2, cat);
-            let pages = dv.pages(`#hub/philosophy and #category/${cat.toLowerCase()}`).sort(p => p.file.ctime, 'desc');
+            let pages = dv.pages(`#hub/studies and #category/${cat.toLowerCase()}`).sort(p => p.file.ctime, 'desc');
             if (pages.length === 0) {
                 dv.paragraph("_No notes yet in this category._");
             } else {
