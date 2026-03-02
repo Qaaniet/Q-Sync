@@ -46,7 +46,7 @@ function render(category) {
         });
     } else {
         dv.header(2, `Showing: ${category}`);
-        let pages = dv.pages(`#hub/philosophy and #category/${category.toLowerCase()}`).sort(p => p.file.ctime, 'desc');
+        let pages = dv.pages(`#hub/studies and #category/${category.toLowerCase()}`).sort(p => p.file.ctime, 'desc');
         if (pages.length === 0) {
             dv.paragraph("_No notes yet in this category._");
         } else {
