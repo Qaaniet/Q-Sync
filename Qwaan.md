@@ -13,6 +13,7 @@ Welcome to the hub of everything I learn, apply, and track.
 - [[Knowledge Library]]
 - [[Projects Dashboard]]
 - [[Wishlist]]
+- [[Studies Hub]]
 ---
 ## 📊 Monthly Overview
 
