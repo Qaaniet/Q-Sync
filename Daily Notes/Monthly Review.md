@@ -1,6 +1,6 @@
 
 # 📆 Monthly Review
-[[Daily Notes Hub]]  
+[[Daily Notes Hub]]
 
 Month:: 12
 Year:: 2025
