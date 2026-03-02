@@ -2,7 +2,7 @@
 
 ```dataviewjs
 let selected = "All"; // Default is now "See All"
-const categories = ["Course", "Philosophers", "Psychology", "Religion"];
+const categories = ["Course", "General", "Psychology", "Religion"];
 
 dv.header(1, "📚 Knowledge Library Dashboard");
 

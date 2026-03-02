@@ -5,4 +5,5 @@ Start date
 Scope
 Expectations
 
-[[Introduction]] 
+[[Introduction]]
+[[Module 1 - Strategic Project Management]]
