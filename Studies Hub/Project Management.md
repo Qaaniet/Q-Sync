@@ -1,5 +1,5 @@
 # Project Management 
-[[Studies Hub]]
+[[Studies Hub]] #hub/studies #category/course 
 
 Start date
 Scope
